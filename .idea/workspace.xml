@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b2d6830-7494-4c17-b60e-d66af49b6042" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/deeplearning/Pima_indian.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/deeplearning/Pima_indian_Data_preparation.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/deeplearning/Pima_indian.py" afterPath="$PROJECT_DIR$/deeplearning/Pima_indian.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,6 +19,7 @@
     <SUITE FILE_PATH="coverage/stock_trading$05_3D_Graph.coverage" NAME="05_3D_Graph Coverage Results" MODIFIED="1535132056463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../deeplearning/deep_class" />
     <SUITE FILE_PATH="coverage/stock_trading$Multi_Linear_Regression.coverage" NAME="Multi-Linear-Regression Coverage Results" MODIFIED="1535131695137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning" />
     <SUITE FILE_PATH="coverage/stock_trading$Pima_indian_Data_preparation.coverage" NAME="Pima_indian_Data_preparation Coverage Results" MODIFIED="1535938591085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning" />
+    <SUITE FILE_PATH="coverage/stock_trading$Pima_indian.coverage" NAME="Pima_indian Coverage Results" MODIFIED="1535945088117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning" />
     <SUITE FILE_PATH="coverage/stock_trading$test.coverage" NAME="test Coverage Results" MODIFIED="1532829276570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/stock_trading$Logistic_Regression.coverage" NAME="Logistic_Regression Coverage Results" MODIFIED="1535465791203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning" />
     <SUITE FILE_PATH="coverage/stock_trading$My_First_Deeplearning.coverage" NAME="My_First_Deeplearning Coverage Results" MODIFIED="1535871624541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deeplearning" />
@@ -61,12 +60,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pima_indian.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Pima_indian.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/deeplearning/Pima_indian.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="368">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -81,7 +82,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pima_indian_Data_preparation.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Pima_indian_Data_preparation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/deeplearning/Pima_indian_Data_preparation.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
@@ -118,8 +119,8 @@
         <option value="$PROJECT_DIR$/deeplearning/XOR.py" />
         <option value="$PROJECT_DIR$/deeplearning/XOR-backpropagation.py" />
         <option value="$PROJECT_DIR$/deeplearning/My_First_Deeplearning.py" />
-        <option value="$PROJECT_DIR$/deeplearning/Pima_indian.py" />
         <option value="$PROJECT_DIR$/deeplearning/Pima_indian_Data_preparation.py" />
+        <option value="$PROJECT_DIR$/deeplearning/Pima_indian.py" />
       </list>
     </option>
   </component>
@@ -193,26 +194,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Pima_indian_Data_preparation">
-    <configuration name="Logistic_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="stock_trading" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning/Logistic_Regression.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Pima_indian">
     <configuration name="Multi_Logistic_Regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,6 +228,25 @@
       <module name="stock_trading" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning/My_First_Deeplearning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Pima_indian" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deeplearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stock_trading" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deeplearning/Pima_indian.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,19 +291,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Logistic_Regression" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Multi_Logistic_Regression" />
-      <item index="2" class="java.lang.String" itemvalue="Python.XOR" />
-      <item index="3" class="java.lang.String" itemvalue="Python.My_First_Deeplearning" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Pima_indian_Data_preparation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Multi_Logistic_Regression" />
+      <item index="1" class="java.lang.String" itemvalue="Python.XOR" />
+      <item index="2" class="java.lang.String" itemvalue="Python.My_First_Deeplearning" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Pima_indian_Data_preparation" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Pima_indian" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Pima_indian_Data_preparation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.My_First_Deeplearning" />
-        <item index="2" class="java.lang.String" itemvalue="Python.XOR" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Multi_Logistic_Regression" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Logistic_Regression" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Pima_indian" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Pima_indian_Data_preparation" />
+        <item index="2" class="java.lang.String" itemvalue="Python.My_First_Deeplearning" />
+        <item index="3" class="java.lang.String" itemvalue="Python.XOR" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Multi_Logistic_Regression" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +340,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.014823261" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24743444" sideWeight="0.49785176" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22395274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -705,14 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deeplearning/Pima_indian.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataset/pima-indians-diabetes.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -727,6 +720,16 @@
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deeplearning/Pima_indian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
